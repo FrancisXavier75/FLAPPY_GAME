@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Dog",
+  "identifier": "texture:209056-d9451abd-3843-4711-85e2-08d4e24e7cf3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0d2e5991f727b9bc2af9fa828953952d",
+  "assetLocator": "textures/Dog.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209174-d9451abd-3843-4711-85e2-08d4e24e7cf3",
+    "textureExportConfig:209294-d9451abd-3843-4711-85e2-08d4e24e7cf3",
+    "textureExportConfig:209418-d9451abd-3843-4711-85e2-08d4e24e7cf3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 718,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0d2e5991f727b9bc2af9fa828953952d",
+      "colorCount": 32185,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.411906774611151,
+      "pixelsHigh": 718,
+      "pixelsWide": 1024
+    }
+  ]
+}
